@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Collections;
 using UnityEngine.InputSystem;
 
+
 public class NewMonoBehaviourScript : MonoBehaviour
 {
     public float playerSpeed;
